@@ -1,6 +1,6 @@
 # Gymik-INF
 
-[![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://github.com/peldax/Gymik-INF/releases/tag/v1.0)
+[![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://github.com/peldax/Gymik-INF/releases/tag/1.0)
 
 [![Maintained](https://img.shields.io/badge/maintained-no-red.svg)](https://github.com/peldax/Gymik-INF/releases)
 [![Issues](https://img.shields.io/badge/issues-0-brightgreen.svg)](https://github.com/peldax/Gymik-INF/issues)
