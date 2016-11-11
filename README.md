@@ -5,9 +5,9 @@
 [![Maintained](https://img.shields.io/badge/maintained-no-red.svg)](https://github.com/peldax/Gymik-INF/releases)
 [![Issues](https://img.shields.io/badge/issues-0-brightgreen.svg)](https://github.com/peldax/Gymik-INF/issues)
 
-##### School year 2013/2014
-##### Programming language - C-Sharp
-##### Language of Comments - English
+* School year - **2013/2014**
+* Programming language - **C-Sharp**
+* Language of Comments - **English and Czech**
 
 This is my graduation work for subject INF at Gymnázium Mikulášské náměstí, Plzeň.
 
