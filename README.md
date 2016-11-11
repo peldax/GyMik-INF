@@ -11,7 +11,7 @@
 
 This is my graduation work for subject INF at Gymnázium Mikulášské náměstí, Plzeň.
 
-This little application evaulates mathematical expressions (the console appliacation) or draws graph of mathematical function (the gui application). I implemented this solution at highschool without any theoretical knowledge of parsers of an type.
+This little application evaulates mathematical expressions (the console appliacation) or draws graph of mathematical function (the gui application). Solution is really straightforward and naive - I implemented it at highschool without any theoretical knowledge of parsers of an type.
 
 ## Example
 
