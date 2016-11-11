@@ -52,6 +52,8 @@ exit
 You are required to install `mono` package.
 
 ```
-mcs Source.cs
-mono Source.exe
+mcs ConsoleEvaulator.cs
+mono ConsoleEvaulator.exe
 ```
+
+GUI application for graphs is of type WPF, which is not supported by mono.
