@@ -5,7 +5,7 @@
 [![Maintained](https://img.shields.io/badge/maintained-no-red.svg)](https://github.com/peldax/Gymik-INF/releases)
 [![Issues](https://img.shields.io/badge/issues-0-brightgreen.svg)](https://github.com/peldax/Gymik-INF/issues)
 
-##### 2013/2014
+##### School year 2013/2014
 ##### Programming language - C-Sharp
 ##### Language of Comments - English
 
